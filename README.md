@@ -32,9 +32,16 @@ I'm Lorenzo Ferrara, Mathematical Engineering student at Politecnico di Milano. 
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='28'>  &nbsp 
 </ul>
 
+
+<!--
 ## 🙋🏼‍♂️ **About me:**
 
-
+<ul>
+:books::book: &nbsp 
+:flag &nbsp 
+        &nbsp
+</ul>
+-->
 
 
 
