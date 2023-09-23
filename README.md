@@ -16,7 +16,7 @@ I'm Lorenzo Ferrara, Mathematical Engineering student at Politecnico di Milano. 
 
 - [`Adaptation of the Italian electricity system to reduced water availability`](https://github.com/lorenzoferrara/climate-change): Climate Change project which assesses the resilience of the Italian energetic sector to water scarcity, through a scenario-based optimization approach.
 
-- [`Study about the impact of deficits in task-switching in Schizophrenia`](https://github.com/lorenzoferrara/schizophrenia-task-switching): Health fata project which explores neuronal activity and reaction times of various subjects during a task-switching experiment, through classical statistics tools.
+- [`Study about the impact of deficits in task-switching in Schizophrenia`](https://github.com/lorenzoferrara/schizophrenia-task-switching): Health Data project which explores neuronal activity and reaction times of various subjects during a task-switching experiment, through classical statistics tools.
 
 ## ✉️ **Get in Contact with me:**
 
